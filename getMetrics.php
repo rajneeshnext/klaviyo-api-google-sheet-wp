@@ -1,9 +1,9 @@
 <?php
 echo "<pre>";
 // Your Klaviyo private API key
-$apiKey = "pk_9ec3fb0475f58e2ca7ed31fb3bdf83b50b";
-$metricId = "RTyLtv";
-$orderProductMetricID = "XTRtBz";
+$apiKey = "xxxx";
+$metricId = "xxxx";
+$orderProductMetricID = "xxxx";
 //flowtriggers($apiKey);exit();
 metricAggregates($apiKey, $metricId);exit();
 //getMetrics($apiKey);exit();
